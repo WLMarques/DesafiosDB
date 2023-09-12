@@ -24,7 +24,6 @@ public class DesafioMercadoCompra {
                 break;
             case 3:
                 System.out.println("Informe a idade");
-                //Vai pegar o valor da idade
                 idade = ler.nextInt();
                 if (idade < 18){
                     System.out.println("Você é menor de idade para comprar Cerveja");
