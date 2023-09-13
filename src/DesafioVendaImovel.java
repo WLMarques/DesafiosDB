@@ -23,8 +23,9 @@ public class DesafioVendaImovel {
         }else if (valorimovel >= 30000 && valorimovel < 50000){
             comissao = valorimovel * 0.15;
             System.out.printf("Imóvel %s vendido por R$ %.2f, sua comissão foi de 15 por cento: R$ %.2f", nomeimovel,valorimovel, comissao);
-        }else
-        comissao = valorimovel * 0.10;
-        System.out.printf("Imóvel %s vendido por R$ %.2f, sua comissão foi de 10 por cento: R$ %.2f", nomeimovel,valorimovel, comissao);
+        }else if (valorimovel < 30000) {
+            comissao = valorimovel * 0.10;
+            System.out.printf("Imóvel %s vendido por R$ %.2f, sua comissão foi de 10 por cento: R$ %.2f", nomeimovel, valorimovel, comissao);
+        }
     }
 }
