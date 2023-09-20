@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="Alterado else no final que estava entrando em condição errada nos testes">
+    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioMercadoCompraDesconto Concluido">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       <updated>1694521601805</updated>
       <workItem from="1694521602610" duration="12461000" />
       <workItem from="1694601508612" duration="8903000" />
-      <workItem from="1695144156305" duration="11744000" />
+      <workItem from="1695144156305" duration="12440000" />
     </task>
     <task id="LOCAL-00001" summary="Teste Commit">
       <option name="closed" value="true" />
@@ -135,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694607971059</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="DesafioMercadoCompraDesconto Concluido">
+      <option name="closed" value="true" />
+      <created>1695183755232</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695183755232</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +157,7 @@
     <MESSAGE value="DesafioNotaAluno Concluído" />
     <MESSAGE value="DesafioVendaImovel Concluído" />
     <MESSAGE value="Alterado else no final que estava entrando em condição errada nos testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alterado else no final que estava entrando em condição errada nos testes" />
+    <MESSAGE value="DesafioMercadoCompraDesconto Concluido" />
+    <option name="LAST_COMMIT_MESSAGE" value="DesafioMercadoCompraDesconto Concluido" />
   </component>
 </project>
