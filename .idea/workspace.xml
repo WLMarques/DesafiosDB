@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioMercadoCompraDesconto Concluido">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioEncerraPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioEncerraPrograma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <updated>1694521601805</updated>
       <workItem from="1694521602610" duration="12461000" />
       <workItem from="1694601508612" duration="8903000" />
-      <workItem from="1695144156305" duration="12440000" />
+      <workItem from="1695144156305" duration="12745000" />
     </task>
     <task id="LOCAL-00001" summary="Teste Commit">
       <option name="closed" value="true" />
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695183755232</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="DesafioMercadoCompraDesconto Concluido">
+      <option name="closed" value="true" />
+      <created>1695184343726</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695184343726</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

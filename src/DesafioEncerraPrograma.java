@@ -7,7 +7,7 @@ public class DesafioEncerraPrograma {
         int escolha;
 
         do {
-            System.out.println("Você pode escolher qualquer número, se informar 10 o programa encerra");
+            System.out.println("Você pode escolher qualquer número inteiro, se informar 10 o programa encerra");
             escolha = ler.nextInt();
         }while (escolha != 10);
 
