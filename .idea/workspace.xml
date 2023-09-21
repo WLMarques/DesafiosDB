@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioSomaDeValores Concluído">
+    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioBloqueioUsuario Concluído">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,8 @@
       <workItem from="1694521602610" duration="12461000" />
       <workItem from="1694601508612" duration="8903000" />
       <workItem from="1695144156305" duration="13009000" />
-      <workItem from="1695237464002" duration="8407000" />
+      <workItem from="1695237464002" duration="8910000" />
+      <workItem from="1695325436772" duration="1331000" />
     </task>
     <task id="LOCAL-00001" summary="Teste Commit">
       <option name="closed" value="true" />
@@ -176,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695243026341</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="DesafioBloqueioUsuario Concluído">
+      <option name="closed" value="true" />
+      <created>1695246302464</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695246302464</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +203,7 @@
     <MESSAGE value="DesafioEncerraPrograma Concluído" />
     <MESSAGE value="DesafioTabuada Concluído" />
     <MESSAGE value="DesafioSomaDeValores Concluído" />
-    <option name="LAST_COMMIT_MESSAGE" value="DesafioSomaDeValores Concluído" />
+    <MESSAGE value="DesafioBloqueioUsuario Concluído" />
+    <option name="LAST_COMMIT_MESSAGE" value="DesafioBloqueioUsuario Concluído" />
   </component>
 </project>
