@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioBloqueioUsuario Concluído">
+    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioMediaAluno Concluído">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,8 @@
       <workItem from="1694601508612" duration="8903000" />
       <workItem from="1695144156305" duration="13009000" />
       <workItem from="1695237464002" duration="8910000" />
-      <workItem from="1695325436772" duration="1331000" />
+      <workItem from="1695325436772" duration="2517000" />
+      <workItem from="1695730174933" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="Teste Commit">
       <option name="closed" value="true" />
@@ -185,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695246302464</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="DesafioMediaAluno Concluído">
+      <option name="closed" value="true" />
+      <created>1695327063651</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695327063651</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +213,7 @@
     <MESSAGE value="DesafioTabuada Concluído" />
     <MESSAGE value="DesafioSomaDeValores Concluído" />
     <MESSAGE value="DesafioBloqueioUsuario Concluído" />
-    <option name="LAST_COMMIT_MESSAGE" value="DesafioBloqueioUsuario Concluído" />
+    <MESSAGE value="DesafioMediaAluno Concluído" />
+    <option name="LAST_COMMIT_MESSAGE" value="DesafioMediaAluno Concluído" />
   </component>
 </project>
