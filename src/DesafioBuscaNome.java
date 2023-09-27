@@ -5,7 +5,7 @@ public class DesafioBuscaNome {
 
     public static void main(String[] args) {
 
-        String vetor[] = new String[3];
+        String vetor[] = new String[10];
         String nome, buscavetor;
         boolean buscanome = false;
         int p;

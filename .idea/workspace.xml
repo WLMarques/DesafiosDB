@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioValoresImpares Concluído">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioBuscaNome Concluído">
+      <change beforePath="$PROJECT_DIR$/src/DesafioBuscaNome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioBuscaNome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
       <workItem from="1695144156305" duration="13009000" />
       <workItem from="1695237464002" duration="8910000" />
       <workItem from="1695325436772" duration="2517000" />
-      <workItem from="1695730174933" duration="10413000" />
+      <workItem from="1695730174933" duration="10786000" />
     </task>
     <task id="LOCAL-00001" summary="Teste Commit">
       <option name="closed" value="true" />
@@ -210,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695817325324</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="DesafioBuscaNome Concluído">
+      <option name="closed" value="true" />
+      <created>1695827514304</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695827514304</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +240,7 @@
     <MESSAGE value="DesafioMediaAluno Concluído" />
     <MESSAGE value="DesafioDivisaoValores Concluído" />
     <MESSAGE value="DesafioValoresImpares Concluído" />
-    <option name="LAST_COMMIT_MESSAGE" value="DesafioValoresImpares Concluído" />
+    <MESSAGE value="DesafioBuscaNome Concluído" />
+    <option name="LAST_COMMIT_MESSAGE" value="DesafioBuscaNome Concluído" />
   </component>
 </project>
