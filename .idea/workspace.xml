@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioDivisaoValores Concluído">
+    <list default="true" id="e3c5a084-4b32-4083-8582-caca5aa239ae" name="Changes" comment="DesafioValoresImpares Concluído">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <workItem from="1695144156305" duration="13009000" />
       <workItem from="1695237464002" duration="8910000" />
       <workItem from="1695325436772" duration="2517000" />
-      <workItem from="1695730174933" duration="5245000" />
+      <workItem from="1695730174933" duration="10413000" />
     </task>
     <task id="LOCAL-00001" summary="Teste Commit">
       <option name="closed" value="true" />
@@ -202,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695732365523</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="DesafioValoresImpares Concluído">
+      <option name="closed" value="true" />
+      <created>1695817325324</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695817325324</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +231,7 @@
     <MESSAGE value="DesafioBloqueioUsuario Concluído" />
     <MESSAGE value="DesafioMediaAluno Concluído" />
     <MESSAGE value="DesafioDivisaoValores Concluído" />
-    <option name="LAST_COMMIT_MESSAGE" value="DesafioDivisaoValores Concluído" />
+    <MESSAGE value="DesafioValoresImpares Concluído" />
+    <option name="LAST_COMMIT_MESSAGE" value="DesafioValoresImpares Concluído" />
   </component>
 </project>
